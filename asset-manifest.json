@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Website-CELT-English-practice-ReactJS/static/css/main.ce656566.chunk.css",
+    "main.js": "/Website-CELT-English-practice-ReactJS/static/js/main.71d4dd31.chunk.js",
+    "main.js.map": "/Website-CELT-English-practice-ReactJS/static/js/main.71d4dd31.chunk.js.map",
+    "runtime-main.js": "/Website-CELT-English-practice-ReactJS/static/js/runtime-main.792cc419.js",
+    "runtime-main.js.map": "/Website-CELT-English-practice-ReactJS/static/js/runtime-main.792cc419.js.map",
+    "static/js/2.9cf634be.chunk.js": "/Website-CELT-English-practice-ReactJS/static/js/2.9cf634be.chunk.js",
+    "static/js/2.9cf634be.chunk.js.map": "/Website-CELT-English-practice-ReactJS/static/js/2.9cf634be.chunk.js.map",
+    "static/js/3.0a80f5fa.chunk.js": "/Website-CELT-English-practice-ReactJS/static/js/3.0a80f5fa.chunk.js",
+    "static/js/3.0a80f5fa.chunk.js.map": "/Website-CELT-English-practice-ReactJS/static/js/3.0a80f5fa.chunk.js.map",
+    "index.html": "/Website-CELT-English-practice-ReactJS/index.html",
+    "static/css/main.ce656566.chunk.css.map": "/Website-CELT-English-practice-ReactJS/static/css/main.ce656566.chunk.css.map",
+    "static/js/2.9cf634be.chunk.js.LICENSE.txt": "/Website-CELT-English-practice-ReactJS/static/js/2.9cf634be.chunk.js.LICENSE.txt",
+    "static/media/logo.0d858685.png": "/Website-CELT-English-practice-ReactJS/static/media/logo.0d858685.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.792cc419.js",
+    "static/js/2.9cf634be.chunk.js",
+    "static/css/main.ce656566.chunk.css",
+    "static/js/main.71d4dd31.chunk.js"
+  ]
+}
